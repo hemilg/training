@@ -1,0 +1,1 @@
+Taking inspiration from [this](https://www.reddit.com/r/cscareerquestions/comments/gj6ly9/on_grinding_leetcode/) reddit post.
