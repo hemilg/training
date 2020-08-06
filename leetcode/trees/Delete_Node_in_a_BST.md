@@ -46,7 +46,6 @@ Output 2
 ## Solution
 
 ```java
-
 ```
 
 ### Complexity
@@ -60,3 +59,7 @@ Output 2
 ### Pros
 
 ### Cons
+
+### Notes
+
+Gotta get better at identifying which tree problems should be done recursively, and which ones should be done iteratively. Seems like recursive is way nicer for BST. Spent about an hour trying to do this one iterateively, with a `findPathToDeletionNode` and `findPathToMax` private methods. I was on the right track, but it was an uphill battle. this was a clear use case for recursion. Going to try to re-implement [this](https://leetcode.com/problems/delete-node-in-a-bst/discuss/93296/Recursive-Easy-to-Understand-Java-Solution/221001) code from scratch tomorrow.
